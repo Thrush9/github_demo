@@ -9,3 +9,5 @@ github repo for git mastery
 # github branching & Merging
 
 Added some text.
+
+Developed By ABC dev
