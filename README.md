@@ -7,3 +7,5 @@ github repo for git mastery
 # github commits and tags
 
 # github branching & Merging
+
+Added some text.
